@@ -1,7 +1,11 @@
 Project Description:
-Developed a simple android app that states if it is recommended to buy cryptocurrency or not for the choice entered by the user on the app. Cryptodata is fetched from a third party API
-called https://www.coinlore.com/cryptocurrency-data-api. This is passed to the web service which contains the logic to determine if the user can buy or not. The fetched data is also stored in MongoDB for analytics purposes.
-Analytics Dashboard displays user and usage statistics. 
+Designed and implemented a user-centric Android application focused on cryptocurrency investment decisions. The app allows users to input their preferred cryptocurrency, leveraging real-time data retrieved from the CoinLore Cryptocurrency Data API (https://www.coinlore.com/cryptocurrency-data-api).
+
+Utilized a robust web service to process the gathered data, employing sophisticated logic to determine the feasibility of a user's investment choice. The application not only provides clear recommendations on cryptocurrency purchases but also ensures a seamless user experience.
+
+Implemented a secure and scalable solution by incorporating MongoDB for the storage of fetched data. This strategic choice not only enhances data analytics capabilities but also facilitates the generation of insightful statistics for comprehensive user and usage analysis.
+
+Additionally, developed an Analytics Dashboard to present detailed user statistics and usage patterns, offering a valuable resource for informed decision-making. This project showcases my proficiency in Android app development, API integration, database management, and data analytics, reflecting a commitment to delivering user-centric solutions with a focus on data-driven insights.
 
 Project Architecture:
 
